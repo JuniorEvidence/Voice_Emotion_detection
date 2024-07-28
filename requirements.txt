@@ -1,0 +1,5 @@
+1.Anaconda
+2.TensorFlow
+3.OpenCV
+4.Matplotlib
+5.VS Code
